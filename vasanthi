@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<canio.h>
+{
+int a ,b;
+a=3; b=4;
+ADD(a+b);
+}
+getch();
+clrscr():
